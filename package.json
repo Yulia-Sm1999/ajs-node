@@ -1,0 +1,24 @@
+{
+  "name": "ajs-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yulia-Sm1999/ajs-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yulia-Sm1999/ajs-node/issues"
+  },
+  "homepage": "https://github.com/Yulia-Sm1999/ajs-node#readme",
+  "dependencies": {
+    "@yulia-sm1999/ajs": "github:yulia-sm1999/ajs"
+  }
+}
